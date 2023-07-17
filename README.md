@@ -1,6 +1,8 @@
 # WorldCupAnalysis
 DataPath : Python Final Project
 
+Knowledge : Data Manipulation using Python DataFrames
+
 Requirements
  - Read File : world_cup.csv
  - How many World Cups do we have information of?
